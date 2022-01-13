@@ -1,6 +1,6 @@
 <?php
 
-namespace ctrlv\ComposerNic;
+namespace interpriseNic\ComposerNic;
 
 class TestClass {
 

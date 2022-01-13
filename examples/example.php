@@ -2,6 +2,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use ctrlv\ComposerNic\TestClass;
+use interpriseNic\ComposerNic\TestClass;
 
 TestClass::upperFirst('пРивеТ Пользователь');
