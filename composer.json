@@ -2,7 +2,7 @@
     "name": "interprise-nic/composer-nic",
     "description": "first composer project",
     "type": "project",
-    "license": "test project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nicolay Kryuchkov",
