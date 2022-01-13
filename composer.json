@@ -10,10 +10,6 @@
             "email": "krjuchkovkolja@mail.ru"
         }
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/NicolayKR/testComposer"
-    },
     "require": {
         "php": ">=7.2.0"
     },
