@@ -1,19 +1,18 @@
 {
-    "name": "ctrlv/composer-nic",
+    "name": "interprise-nic/composer-nic",
     "description": "first composer project",
     "type": "project",
     "license": "test project",
-    "autoload": {
-        "psr-4": {
-            "Ctrlv\\ComposerNic\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Nicolay Kryuchkov",
             "email": "krjuchkovkolja@mail.ru"
         }
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NicolayKR/testComposer"
+    },
     "require": {
         "php": ">=7.2.0"
     },
