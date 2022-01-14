@@ -1,5 +1,6 @@
 {
     "name": "interprise-nic/composer-nic",
+    "version": "1.0.0",
     "description": "first composer project",
     "type": "project",
     "license": "MIT",
