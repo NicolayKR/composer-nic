@@ -1,7 +1,6 @@
 {
     "name": "interprise-nic/composer-nic",
     "description": "first composer project",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
